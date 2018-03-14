@@ -2,5 +2,6 @@
 
 Usage:
 
-javac StringCounter.java \n
+javac StringCounter.java 
+
 java StringCounter/path/to/you/root/folder/of/android/project
